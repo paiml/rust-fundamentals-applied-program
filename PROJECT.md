@@ -1,8 +1,7 @@
 # The Project
 
 This program is built around one project you start in Week 1 and ship in
-Week 8: **an application that solves a real problem using a local or
-self-deployed LLM (or SLM).**
+Week 8: **a command-line tool of your own choosing, built in Rust.**
 
 > [!IMPORTANT]
 > **Start small, grow it weekly.** Week 1 can be a `cargo new` project that just prints something. The point isn't to design the whole tool up front — it's to have something real to apply each week's Rust concept to, so by Week 8 it's a proper tested, packaged CLI.
