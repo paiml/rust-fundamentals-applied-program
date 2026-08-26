@@ -1,4 +1,4 @@
-<h1 align="center">Rust Fundamentals Applied Program</h1>
+<h1 align="center">Build a Rust Command-Line Tool</h1>
 
 <p align="center">Beginner, project-based, portfolio-first Rust</p>
 
