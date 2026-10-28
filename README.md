@@ -58,7 +58,7 @@ There are two ways to run through it:
 Each week lists a plain-language objective, supporting resources, and a demo video prompt. The video prompt is worth doing even outside a cohort — it's the habit that turns a week of work into a LinkedIn post and a portfolio entry.
 
 > [!IMPORTANT]
-> You are not required to watch or read every resource listed. Nothing here is graded. Use the content as support for your project, not as a checklist to complete for its own sake.
+> Video lessons are **not** free and require a subscription. You are not required to watch or read every resource listed. Nothing here is graded. Use the content as support for your project, not as a checklist to complete for its own sake.
 
 > [!NOTE]
 > **Diversity Statement:** We share a commitment to diversity and equity, removing barriers to learning so that everyone can participate fully. This program is meant to be useful to people with a wide range of backgrounds, identities, and learning styles, whether you found it through a cohort or on your own on GitHub.
