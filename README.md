@@ -282,3 +282,7 @@ The primary two resources for building an LLM solution on a local API:
 ## Community
 
 Join the shared PAIML Discord to ask questions, share progress, and post your weekly demos. If you're in a cohort, you'll also get invited to a dedicated channel for your run, alongside the shared server.
+
+<!-- FUNNEL-001 footer: replace rust-fundamentals-applied-program with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=rust-fundamentals-applied-program) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=rust-fundamentals-applied-program)
