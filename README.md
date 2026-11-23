@@ -282,3 +282,11 @@ The primary two resources for building an LLM solution on a local API:
 ## Community
 
 Join the shared PAIML Discord to ask questions, share progress, and post your weekly demos. If you're in a cohort, you'll also get invited to a dedicated channel for your run, alongside the shared server.
+
+<!-- funnel:start -->
+---
+
+**Learn Rust:** [Rust From Zero (Coursera)](https://www.coursera.org/learn/rust?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=rust-fundamentals-applied-program) · [Rust Programming, Duke (Coursera)](https://www.coursera.org/specializations/rust-programming?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=rust-fundamentals-applied-program) · [Rust Programming program (edX)](https://www.edx.org/certificates/professional-certificate/ai-rust-programming?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=rust-fundamentals-applied-program)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
